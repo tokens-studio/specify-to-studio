@@ -1,0 +1,14 @@
+{
+  "theme": {
+    "$collection": { "$modes": ["light", "dark"] },
+    "color": {
+      "blue": {
+        "$type": "color",
+        "$value": {
+          "light": { "model": "hex", "hex": "#1919C4", "alpha": 1 },
+          "dark": { "model": "hex", "hex": "#111146", "alpha": 1 }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"$type": "color",
+	"theme": {
+		"color": {
+			"light": {
+				"color": {
+					"blue": {
+						"$value": "#1919c4"
+					}
+				}
+			}
+		}
+	}
+}
